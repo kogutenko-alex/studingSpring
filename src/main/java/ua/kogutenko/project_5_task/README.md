@@ -1,4 +1,4 @@
-###Task to secure your knowledge
+### Task to secure your knowledge
 1) Create an array of 3 songs in genre classes
 2) In musicPlayer should be injected all genres
 3) Create enum with genres: CLASSICAL and ROCK
