@@ -18,6 +18,6 @@ add annotation (@Component, @Autowired)
 
 ---
 ### Project 6 ([here](https://github.com/kogutenko-alex/studingSpring/tree/master/src/main/java/ua/kogutenko/project_6))
-add annotation (@Scope, @Value, @PostConstruct, @PreDestroy)
+add annotation (@Scope, @Value, @PostConstruct, @PreDestroy, @Configuration, @ComponentScan, @PropertySource, @Bean)
 
 ---
