@@ -5,7 +5,7 @@ package ua.kogutenko.project_1;
  *
  * @author Kogutenko Alex
  */
-public class TestBean {
+class TestBean {
 
     private String name;
 
